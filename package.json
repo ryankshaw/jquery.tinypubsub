@@ -1,5 +1,5 @@
 {
-  "name": "jquery.tinypubsub",
+  "name": "jquery-tinypubsub",
   "version": "1.0.0",
   "description": "A really, really, REALLY tiny pub/sub implementation for jQuery.",
   "main": "index.js",
